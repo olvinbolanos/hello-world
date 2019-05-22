@@ -6,3 +6,4 @@
 <!*** the email input is responsive and has a required method in HTML that verifies whether the user submitted a verified !**>
 <!*** email address, it changes from black to green if its a correct address !***>
 <!*** this is just a basic platform one can use to design a simple blogpost and I did not add in the backend !***>
+<!*** I have also added in here a couple of files you may be interested in downloading for your own personal use !***>
